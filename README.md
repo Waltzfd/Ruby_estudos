@@ -1,1 +1,1 @@
-# Ruby_estudos
+# Somente para fins educativos
